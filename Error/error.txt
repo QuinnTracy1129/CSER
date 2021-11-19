@@ -1,0 +1,10 @@
+[08-Oct-2016 17:12:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$pw' (T_VARIABLE) in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\signup.php on line 174
+[08-Oct-2016 17:14:18 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\connect.php on line 2
+[11-Oct-2016 17:30:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected '@', expecting ',' or ';' in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\signup.php on line 219
+[11-Oct-2016 17:32:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\signup.php on line 199
+[11-Oct-2016 17:33:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\signup.php on line 199
+[11-Oct-2016 17:33:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\signup.php on line 199
+[11-Oct-2016 17:34:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\signup.php on line 199
+[11-Oct-2016 17:34:37 Europe/Berlin] PHP Warning:  require(): Filename cannot be empty in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\errorlog.php on line 6
+[11-Oct-2016 17:34:37 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\errorlog.php on line 6
+[11-Oct-2016 17:34:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\Sopong,Polintan-BSIT4D\signup.php on line 199

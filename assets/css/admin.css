@@ -1,0 +1,46 @@
+html, body {
+	margin:0px;
+	overflow:hidden;
+}
+#main_container {
+	width:100%;
+	margin-top: 54px;
+	background-color:#ffffff;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	height:100%;
+	position:absolute;
+}
+.navbar-default{
+	background-color:#333333 !important;
+}
+.button {
+    background-color:;
+    border: none;
+    color: ;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+	float:center;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #f2f2f2 !important;
+}
+.navbar-default .navbar-nav>li>a:hover {
+  background-color: rgba(0,192,230,0.5)!important;
+}
+.navbar-default .navbar-nav>.open>a {
+  background-color: rgba(255,255,255,0.5)!important;
+}
+.navbar-default .navbar-brand {
+  color: #f2f2f2 !important;
+}
+.table>tbody>tr>td{
+	vertical-align: middle !important;
+}
